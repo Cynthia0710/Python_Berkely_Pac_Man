@@ -14,5 +14,4 @@ Weighted A* algorithm:
 `python capture.py -r baselineTeam -b baselineTeam/myTeam -l RANDOM13`
 
 ## Requirement
-if there is an error " ImportError: No module named 'Tkinter' " and you're using python 3.9 on Mac
-you can simply install tkinter using brew: `brew install python-tk@3.9`
+if there is an error " ImportError: No module named 'Tkinter' " and you're using python 3.9 on Mac, you can simply install tkinter using brew: `brew install python-tk@3.9`
