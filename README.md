@@ -1,4 +1,5 @@
 # Python_Cynthia0710-Python_Berkely-Pac-Man
+
 ## Project 1
 ### Part 1
 Iterative Deepening Search algorithm: 
@@ -11,3 +12,7 @@ Weighted A* algorithm:
 
 ## Project 2
 `python capture.py -r baselineTeam -b baselineTeam/myTeam -l RANDOM13`
+
+## Requirement
+if there is an error " ImportError: No module named 'Tkinter' " and you're using python 3.9 on Mac
+you can simply install tkinter using brew: `brew install python-tk@3.9`
